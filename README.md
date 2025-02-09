@@ -16,7 +16,9 @@ Openpyxl: For reading and writing Excel files.
 You can install the required libraries by running the following commands:
 
 pip install pyspark
+
 pip install openpyxl
+
 pip install seaborn scikit-learn matplotlib pandas
 
 

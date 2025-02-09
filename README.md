@@ -6,10 +6,15 @@ Requirements:
 To run this project, the following libraries are required:
 
 PySpark: For working with large-scale data.
+
 Pandas: For data manipulation and conversion between Pandas and Spark DataFrames.
+
 Scikit-learn: For machine learning models and evaluation.
+
 Matplotlib: For data visualization.
+
 Seaborn: For creating statistical plots.
+
 Openpyxl: For reading and writing Excel files.
 
 
